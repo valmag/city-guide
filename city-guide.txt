@@ -1,4 +1,20 @@
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
-Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+-Cafe places
+Hamburg: Hafencafe
+Rotterdam: Kula cafe
+
+-Outdoor activities
+Hamburg: going near the river Elbe
+Rotterdam: chilling in Coolhaven
+
+-Water activities
+Hamburg: Holthusenbad baths
+Rotterdam: Hoek van Holland beach
+
+-Cinema or theatre
+Hamburg: Kino 3001 
+Rotterdam: Kino cinema
+
+-Night out
+Hamburg: Lemon bar, Sternschanze; Ginst, St. Pauli
+Rotterdam: Witte de Withstraat; Ferry
+
