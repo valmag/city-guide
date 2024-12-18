@@ -18,3 +18,7 @@ Rotterdam: Kino cinema
 Hamburg: Lemon bar, Sternschanze; Ginst, St. Pauli
 Rotterdam: Witte de Withstraat; Ferry
 
+-Place to avoid
+Hamburg: Talstr., St. Pauli
+ 
+
